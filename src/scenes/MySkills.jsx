@@ -65,7 +65,7 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01 </p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Tata Steel Intern
+               I am a passionate software developer with a diverse set of skills that enable me to tackle various challenges in the tech world.
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
@@ -91,7 +91,7 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                AI Driven Fashion Trends
+               I bring innovative solutions to complex problems by leveraging the latest technologies and best practices.
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
@@ -117,7 +117,7 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Movie Recommendation
+               With hands-on experience in various projects, I have honed my skills in full-stack development.
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
