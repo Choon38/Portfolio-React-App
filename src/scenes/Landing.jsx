@@ -54,7 +54,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            I am a third-year undergraduate student in the Department of Computer Science and Engineering at C. V. Raman Global University, Bhubaneswar, India. After graduation, I aspire to work as a software engineer at a tech company, where I can further develop my skills and contribute to innovative projects. In my free time, I enjoy participating in hackathons and exploring new technologies in the field.
+            I am a final year undergraduate student in the Department of Computer Science and Engineering at C. V. Raman Global University, Bhubaneswar, India. After graduation, I aspire to work as a software engineer at a tech company, where I can further develop my skills and contribute to innovative projects. In my free time, I enjoy participating in hackathons and exploring new technologies in the field.
           </p>
         </motion.div>
 
